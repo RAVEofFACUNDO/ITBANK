@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#main-h1{
+    display: flex;
+    justify-content: space-between;
+}
+#tranferencias-form{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#trn-data{
+    padding-right: 1vh;
+}
+#trn{
+    padding-left: 1vh;
+    width: 150vh;
+}
